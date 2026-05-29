@@ -1,0 +1,6 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="20" fill="#24401A"/>
+  <path d="M24 68C34 42 62 38 82 50C98 60 99 82 82 90C66 98 52 82 65 71C75 62 91 67 94 79" stroke="#10180F" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="91" cy="79" r="5" fill="#10180F"/>
+  <text x="25" y="106" fill="#10180F" font-family="Arial, sans-serif" font-size="15" font-weight="800">OFIDISMO</text>
+</svg>
